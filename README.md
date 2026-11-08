@@ -79,4 +79,4 @@ Each cell is a `Button` whose `Tag` holds its state: `"?"` (empty), `"X"` or `"O
 
 **Mohammad**
 Computer Information Systems student at the University of Jordan
-[YouTube: Start Coding with Mohammad](https://www.youtube.com/) · [LinkedIn](https://linkedin.com/in/<your-profile>)
+[YouTube: Start Coding with Mohammad](https://youtube.com/@start-coding-with-mohammad?si=Pa2HQyF8gtO67RJN) · [LinkedIn](www.linkedin.com/in/mohammad-hamdan-0b7b6b30a)
