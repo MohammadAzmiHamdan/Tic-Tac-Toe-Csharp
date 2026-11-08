@@ -60,7 +60,7 @@ Each cell is a `Button` whose `Tag` holds its state: `"?"` (empty), `"X"` or `"O
 <!-- Add screenshots here -->
 | In progress | Win | Draw |
 |---|---|---|
-| ![](screenshots/Playing.png) | ![](screenshots/player1win.png) | ![](screenshots/Draw.png) |
+| ![](screenshots/Playing.png) | ![](screenshots/Win.png) | ![](screenshots/Draw.png) |
 
 ## 📚 What I learned
 
